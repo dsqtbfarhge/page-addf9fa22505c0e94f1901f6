@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3d5ba23a1a25aa690f474a32",
+  "owner": "dsqtbfarhge",
+  "repo": "page-addf9fa22505c0e94f1901f6",
+  "title": "IPNode",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "addf9fa22505c0e94f1901f6",
+      "a": "IPNode",
+      "b": "机场官网线路发布页",
+      "entity": "IPNode",
+      "brand": "IPNode",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fcd467bba633cbd19ec55417873429cfd4dc428d1bff423f1a6cfe172accac35",
+      "content": {
+        "primary_entity": "IPNode",
+        "keyword1": "IPNode",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，IPNode 以海外加速为核心，提供基础版、旗舰版与团队版三档订阅，分别覆盖 3 台、5 台与 20 台设备同时在线，适合个人日常、多设备并用及小型团队场景。每档均包含月度流量与对应节点池，旗舰版额外配置 IPLC 专线并针对游戏延迟优化。选择时先确认常用终端数量与月度流量需求，再结合流媒体或游戏等具体用途匹配档位；订阅后按客户端说明导入配置即可开始使用。",
+          "AI_HERO_SUBTITLE": "海外加速多端轻松接入",
+          "AI_HERO_INTRO": "IPNode 面向需要稳定海外网络访问的用户，按月或按年订阅海外加速服务。三档套餐在流量、设备数量与节点类型上区分明确，可按实际终端和用途快速选定。",
+          "AI_VISUAL_TITLE": "选对档位畅联海外",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人至团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线降低游戏延迟",
+          "AI_HIGHLIGHT_3": "多客户端订阅一键导入",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "从终端数量、流量需求与线路类型三个角度匹配套餐，减少重复调整。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按同时在线终端数量直接对应。",
+          "AI_FEATURE_TITLE_2": "按流量周期选",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省；100GB 到 1000GB 覆盖轻度浏览到重度下载。",
+          "AI_FEATURE_TITLE_3": "按线路类型选",
+          "AI_FEATURE_TEXT_3": "普通节点满足日常访问，IPLC 专线与 VIP 高带宽节点适合游戏和团队协同。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，按设备类型分别配置，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。旗舰版含 IPLC 专线，团队版支持企业定制路由。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认需求与套餐，再检查设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据终端数量与月流量，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "查看所用系统的客户端支持情况，确认订阅配置与设备数量匹配。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照客户端说明添加订阅链接，完成节点更新后开始连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "IPNode 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备的轻度使用，旗舰版适合 5 台设备并需要流媒体与游戏加速的用户，团队版面向 20 台设备以内的小型团队与高流量场景。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。超出数量时可在客户端断开其他设备或考虑升级档位。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在订阅管理页面获取订阅链接，打开对应客户端选择从链接导入或添加订阅，更新节点后即可连接。不同客户端入口名称略有差异，按说明操作即可。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按 ¥15、¥35、¥85 逐月计费，年付分别为 ¥150、¥350、¥850，相当于十个月价格使用十二个月，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么用途？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线在游戏加速与实时交互场景下延迟表现更稳定，同时旗舰版包含全节点原生流媒体解锁，适合对线路质量有要求的用户。",
+          "AI_CLOSING_TITLE": "选好档位开始连接",
+          "AI_CLOSING_TEXT": "根据设备数量与使用场景选定套餐，按客户端说明导入订阅，即可体验 IPNode 海外加速。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nrhavvn.cn",
+    "host": "nrhavvn.cn"
+  },
+  "file_hashes": {
+    "index.html": "6d1140dec482c3573c2e1350ac89935977b5977fd73b859c2bda2b3d0312b938",
+    "sitemap.xml": "0eb2ce056573fe6fdd5f9ed9ad538a20eca5876e826c11d2f98ed4f54973b4c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "74cfb7f50166e407a902f14051d86fb5220af55a4c0bf97a693388c520af648c",
+    "robots.txt": "e3fa484bdc2b876b1a7ab719ad154f1b266b5a93d06b9ccc6d56c8dd73b02f49",
+    "f4b3a3207ea605bd96c6e41f4a815de6.txt": "d36e2c91d70f315c6fad22a319494066fc9b3bd4f073391176660a9669906bb2"
+  },
+  "revision": "58a49cf7d355758a041050e19cc1c590c60052f86f06c2bf8f6a6117c410916a"
+}
